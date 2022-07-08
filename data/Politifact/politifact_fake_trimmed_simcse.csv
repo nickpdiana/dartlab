@@ -1,0 +1,84 @@
+,content,simcse_foundation,simcse_sentence,simcse_score,simcse_tribe,simcse_valence
+4,ELECTORAL COLLEGE ELECTOR COMMITS SUICIDE TO AVOID VOTING FOR DONALD TRUMP,loyalty,A Republican is betraying their group,0.5194493532180786,l,neg
+2,Pence: 'Michelle Obama Is The Most Vulgar First Lady We've Ever Had',care,A Democrat is insulting another person,0.4844755530357361,c,neg
+43,"Barack Obama Tweets SICK Attack On John McCain, Says He Should Have Died",care,A Democrat is insulting another person,0.4774508476257324,c,neg
+38,U.N. Official 'Accidentally' Crushes Own Throat Right Before Testifying Against Hillary Clinton,loyalty,A Democrat is being disloyal,0.4649410545825958,c,neg
+76,BREAKING: 3 Liberal Celebrities Arrested For Conspiracy To Assassinate President Trump,loyalty,A Democrat is betraying their group,0.4467945396900177,c,neg
+51,BREAKING: Federal Judge Grants Permission To Subpoena Trump,authority,A Democrat breaks the rules,0.44571641087532043,c,neg
+55,"Shaquille O'Neal Says: 'Trump Is Possibly The Best President Of The President Of All Times Ever, He Is Not Afraid To''",authority,A Republican is respected,0.44069862365722656,c,pos
+59,Bill Clinton's Hitman Confesses On His Deathbed (SOURCE: HANNITY),care,A Democrat is emotionally hurting another person,0.4382950961589813,c,neg
+27,JUST IN: Barack Obama ARRESTED in a Japanese Drug Bust,authority,A Democrat breaks the law,0.4376944899559021,c,neg
+0,Virginia Republican Wants Schools To Check Children's Genitals Before Using Bathroom,sanctity,A Republican does something disgusting,0.4152340888977051,l,neg
+44,Trump Orders 13 Obama Deep State Operatives Arrested For Treason,loyalty,A Democrat is betraying their group,0.4141834080219269,c,neg
+63,BREAKING: Trump Removes Muslim Federal Judge For Trying To Implement Sharia Law In America,authority,A Democrat breaks the rules,0.4112436771392822,c,neg
+80,Clinton Campaign official arrested by FBI on child rape/trafficking charges,loyalty,A Democrat is being disloyal,0.4064531624317169,c,neg
+48,"DONALD TRAIN NEWS: BREAKING: Rosa Parks' Granddaughter SLAMS Racist Democrats, Endorses Trump",loyalty,A Democrat is betraying their group,0.39814478158950806,c,neg
+71,Obama Announces Bid To Become UN Secretary General ' Usa News,loyalty,A Democrat is being patriotic,0.394212931394577,l,pos
+36,"Nancy Pelosi Suffers Breakdown, Taken From Capitol Hill On A Stretcher",care,A Democrat is caring for another person,0.38726550340652466,l,pos
+17,BREAKING: KEN STARR'S PLANE JUST DISAPPEARED ON HIS WAY TO DC TO TESTIFY AGAINST HILLARY,authority,A Democrat breaks the law,0.3807640075683594,c,neg
+78,TRUMP APPROVAL RATING Better than Obama and Reagan at Same Point in their Presidencies,authority,A Republican is respected,0.3787885308265686,c,pos
+45,BREAKING: Barcelona Terrorist Has A Cousin In The US Named Barack,loyalty,A Democrat is betraying their group,0.37833160161972046,c,neg
+14,BREAKING: FBI Issues Warrant For Obama's Arrest After Confirming Illegal Trump Tower Wiretap,authority,A Democrat breaks the law,0.3775859475135803,c,neg
+81,Maxine Waters Is Getting Criminally Charged!,authority,A Democrat breaks the law,0.37636798620224,c,neg
+68,BREAKING: Trump Just Ended Welfare For One HUGE Group For 5 Years! ' Let The Riots ERUPT!,loyalty,A Democrat is betraying their group,0.3755583167076111,c,neg
+75,BREAKING: Nancy Pelosi To Resign After New Revelations ' NRTOnline,loyalty,A Republican is betraying their group,0.37085169553756714,l,neg
+57,Actress Sandra Bullock to Hillary Clinton if You Don't Like Our President You Can Leave and Never Come Back Again You Are One Jealous Woman Who Ls Nothing to Compare With Trump I Hope He Will Arrest Y,fairness,A Democrat is unfairly getting preferential treatment,0.3662993609905243,c,neg
+79,Senate Report Admits Clinton 'Gifted' Children To Human Traffickers,loyalty,A Democrat is being disloyal,0.3597949743270874,c,neg
+61,"Michelle Obama: 'Florida Shooting Is Clearly Trump's Fault, These Shootings Are Happening Constantly Since He Became Our President.We Must Protect Our Children From This Tyrant'Do You Support Her?'",fairness,A Democrat is being unfair,0.3552606701850891,c,neg
+82,"ABC News Joins Obama In Ban Of American Flag Lapel Pins, Here's What You Need To Know",loyalty,A Democrat is being patriotic,0.35479623079299927,l,pos
+53,Julia Roberts Claims 'Michelle Obama Isn't Fit to Clean Melania's Toilet',sanctity,A Democrat does something disgusting,0.3520776033401489,c,neg
+39,Spicer: 'Trump Has The Legal Right To Cancel SCOTUS Because They Serve At His Pleasure',fairness,A Republican is unfairly getting preferential treatment,0.34266337752342224,l,neg
+30,DONALD TRUMP PRAISES COLONEL SANDERS FOR HIS SERVICE IN THE CIVIL WAR Manny Schewitz O 2 Days Ago Off the Wire Speaking to Our Intern Dave Robicheaux Who Is Paid in Facebook Likes Trump Insisted Col H,loyalty,A Democrat is being loyal,0.3426295816898346,l,pos
+9,"Bill Gates: 'I think Donald Trump will go down to history as one of the greatest presidents, just like Reagan.'",authority,A Republican is respected,0.33898574113845825,c,pos
+29,JEFFERSON DAVIS STATUE TO BE REPLACED WITH OBAMA LIKENESS,sanctity,A Democrat is sacrilegious,0.3363022804260254,c,neg
+60,"Singer Dolly Parton: 'Trump In One Year Is Already Better Than 16 Years' of Bush, Obama 'Put Together', This Stupid Liberals Doing Everything To Impeach Him But We Standing With Trump now And Forever.",care,A Republican is ridiculing another person,0.33331596851348877,l,neg
+8, Breaking President Trump makes English the official language of the United States,authority,A Republican breaks the rules,0.3273189663887024,l,neg
+28,Breaking News: FBI Uncovers Evidence That 62 Million Trump Voters are All Russian Agents,loyalty,A Republican is betraying their group,0.3264656960964203,l,neg
+54,BREAKING: Sasha Obama Just Crashed Her Expensive New Car Into A Lake,sanctity,A Republican ruins something,0.3255044221878052,l,neg
+16,BREAKING: Nancy Pelosi Was Just Taken From Her Office In Handcuffs,authority,A Democrat breaks the law,0.32432934641838074,c,neg
+40,Bachmann: 'White People Have Suffered More In The Last 8 Years Than Blacks Did During Couple Years Of Slavery',fairness,A Democrat is unfairly getting preferential treatment,0.32341867685317993,c,neg
+13,Stephen Bannon: 'Nobody Can Blame You For Beating Your Wife If It's Out Of Love',care,A Republican is emotionally hurting another person,0.3228452205657959,l,neg
+10,BREAKING: Hilary Clinton Filed For Divorce In New York Courts!,authority,A Democrat breaks the law,0.3220241963863373,c,neg
+65,BREAKING: Supreme Court Sides With Trump'This Changes Everything!,authority,A Republican breaks the rules,0.3212483525276184,l,neg
+52,FBI uncovered Russian bribery plot before Obama administration approved controversial nuclear deal with Moscow,loyalty,A Democrat is being disloyal,0.31923621892929077,c,neg
+33,Trump Removing Marines From the Navy,loyalty,A Republican leaves their group and joins their rival,0.3175732493400574,l,neg
+23,TRUMP WANTS TO DEPORT AMERICAN INDIANS TO INDIA,authority,A Republican is disrespected,0.3160824179649353,l,pos
+49,BREAKING: 2 Million Rounds Of Ammo That 'Went Missing' Under Obama Turns Up In Enemy Hands,sanctity,A Republican ruins something,0.31168514490127563,l,neg
+69,Obama Secretly Flees US ' Leaves Stunning Evidence Behind,loyalty,A Democrat is betraying their group,0.3073005974292755,c,neg
+62,Melania Trump Hired Exorcist To 'Cleanse White House Of Obama Demons',fairness,A Republican is abusing their power,0.3066639304161072,l,neg
+35,President Trump Underscores US-Jamaica Relations,loyalty,A Democrat is being patriotic,0.3052510619163513,l,pos
+34,Democrat Maxine Waters Has Shown Up To Only 10% Of Congressional Meetings For 35 YEARS,fairness,A Democrat is being fair,0.30351731181144714,l,pos
+19,"Kasich: 'If A Woman Is Not Intelligent Enough To Keep Her Legs Closed, How Can We Entrust The Abortion Decision To Her?'",fairness,A Democrat is making an unequal judgement,0.3000146746635437,c,neg
+32,Rubio: 'Rape Victims Should Be In Custody If There Is Suspicion That They're Planning Abortion',authority,A Democrat breaks the law,0.29748767614364624,c,neg
+21,BREAKING: MALIA OBAMA EXPELLED FROM HARVARD,authority,A Democrat is disrespected,0.2974230945110321,c,pos
+25,Donald Trump to issue an executive order to ban Facebook across US,authority,A Republican disrespects an authority figure,0.29693910479545593,l,neg
+24,Trump warns Russia over Jehovah's Witnesses ban and urges members to seek asylum in the US,loyalty,A Republican is betraying their group,0.2965201735496521,l,neg
+74,Denzel Washington: With Trump we avoided war with Russia and Orwellian Police State,loyalty,A Republican leaves their group and joins their rival,0.2947121858596802,l,neg
+67,FBI RAIDS OBAMA ' Find Massive Secret That Was Hidden For YEARS,loyalty,A Democrat is betraying their group,0.2942960858345032,c,neg
+42,BUSTED: Russian Mansions Obama Seized Were Meant To Be Illegal Gifts To Sasha And Malia,sanctity,A Democrat is sacrilegious,0.29279255867004395,c,neg
+31,"OBAMA CANCELED IT, TRUMP REINSTATED IT ' A VERY SACRED DAY IS BACK",sanctity,A Democrat protects something sacred,0.29216742515563965,l,pos
+7,Mike Pence: 'Allowing Rape Victims To Have Abortions Will Lead To Women Trying To Get Raped',authority,A Democrat breaks the law,0.2800854742527008,c,neg
+26,BREAKING: Clinton Foundation Cargo Ship Raided At Port Of Baltimore Reveals Sick Secret,loyalty,A Democrat is betraying their group,0.2773171067237854,c,neg
+3,Breaking: Crew Of Air Force One Refuses To Fly Obama 6000 Miles 'Just To Play Golf' ' BuzzfeedUSA,authority,A Republican disrespects an authority figure,0.27660179138183594,l,neg
+22,Trump on Revamping the Military: We're Bringing Back the Draft,loyalty,A Republican is being patriotic,0.2740699350833893,c,pos
+6,Obama Orders Life-Sized Bronze Statute of Himself To Be Permanently Installed in White House,sanctity,A Republican protects something sacred,0.2698957920074463,c,pos
+77,Melania Just Hit Donald Trump With Shocking Announcement He Never Saw Coming,authority,A Republican disrespects an authority figure,0.2680951952934265,l,neg
+41,"Paul Ryan: '22 Million Americans Choose To Be Poor, So It's Their Own Problem If They Can't Afford To Be Healthy'",sanctity,A Republican is depraved,0.2603759467601776,l,neg
+64,Miley Cyrus: 'Donald Trump Is a F--king Nightmare',sanctity,A Republican is depraved,0.25922268629074097,l,neg
+58,Delta Force Raids Obama Stronghold in Thailand,fairness,A Democrat is abusing their power,0.25783252716064453,c,neg
+1,"Donald Trump Protester Speaks Out: 'I Was Paid $3,500 To Protest Trump's Rally'",care,A Democrat is insulting another person,0.25512078404426575,c,neg
+72,Clinton Email: We Must Destroy Syria For Israel,sanctity,A Democrat is sacrilegious,0.24869292974472046,c,neg
+50,President Trump Just Saved Christmas For 13 Million Retirees,loyalty,A Democrat is being patriotic,0.24489513039588928,l,pos
+46,Clinton Foundations Sends Water To Houston For $7 A Bottle,care,A Democrat is caring for another person,0.24436672031879425,l,pos
+66,Court Orders Obama To Pay $400 Million In Restitution,care,A Democrat is showing compassion,0.2401040643453598,l,pos
+56,Trump Vows to End Winter Heating Assistance for Elderly and Disabled ' Our Voice,fairness,A Republican is protecting rights,0.2366374433040619,c,pos
+5,WE WILL RIOT! Michelle Obama's Mom Will Receive $160k Every Year Out Of Taxpayers' Pockets!,care,A Republican is emotionally hurting another person,0.23214586079120636,l,neg
+47,San Juan City Council Votes Unanimously To Impeach Trump-Hating Mayor,authority,A Democrat insults an authority figure,0.2299899011850357,c,neg
+73,"BREAKING: British Intelligence Seizes Clinton Foundation Warehouse, $400 Million In Cash ' NRTOnline",loyalty,A Republican is betraying their group,0.21432918310165405,l,neg
+11,Starbucks Just Placed Trump's Photo on Floor so Every Customer have to Step On It'.,sanctity,A Democrat protects something sacred,0.210223987698555,l,pos
+20,Obama's Tax- Skipping ' Audit Shows Millions In Offshore Accounts,fairness,A Democrat is cheating to win,0.20060433447360992,c,neg
+15,Tom Price: 'It's Better For Our Budget If Cancer Patients Die More Quickly',fairness,A Democrat is unfairly getting preferential treatment,0.20010778307914734,c,neg
+12,"BREAKING: Trump Just Gave Every WORKING, LEGAL Man Woman And Child In The USA $612 EACH! -",authority,A Republican breaks the law,0.19906021654605865,l,neg
+70,"Donald Trump inauguration: Artists who won't perform at ceremony include Elton John, Celine Dion and John Legend",loyalty,A Republican is betraying their group,0.1371268630027771,l,neg
+37,Barrels removed from Clinton property contain parts from 3 missing women.,loyalty,A Democrat leaves their group and joins their rival,0.13093113899230957,c,neg
+18,Police Find 19 White Female Bodies In Freezers With 'Black Lives Matter' Carved Into Skin,care,A Republican is emotionally hurting another person,0.12362595647573471,l,neg

@@ -1,0 +1,20 @@
+,content,simcse_foundation,simcse_sentence,simcse_score,simcse_tribe,simcse_valence
+3,Sanders Supports Gun Safety Bill,fairness,A Republican is protecting rights,0.466791183,c,pos
+14,"Harry Reid Says GOP Should ""Stop Crying"" About Reconciliation",loyalty,A Republican leaves their group and joins their rival,0.436183393,l,neg
+11,Schneiderman suing Trump over DACA cites 'discriminatory animus',authority,A Democrat is disrespected,0.412140131,c,pos
+0,House GOP Introduces Keep Terrorists Out of America Act,fairness,A Republican is protecting rights,0.405056775,c,pos
+16,Republican consultant says Barack Obama promised to halve federal deficit in his first term,loyalty,A Democrat is being patriotic,0.403673112,l,pos
+12,Sen. Gregg: President Obama's Budget Proposal Is a 'Disaster',fairness,A Democrat is being unfair,0.398850799,c,neg
+5,Memory Lapse? Trump Seeks Distance From 'Advisor' With Past Ties to Mafia,loyalty,A Republican is betraying their group,0.380876958,l,neg
+15,SECRET VIDEO: Romney Tells Millionaire Donors What He REALLY Thinks of Obama Voters,fairness,A Republican is cheating to win,0.376638025,l,neg
+4,Obama Promises Abortion in Public Plan,sanctity,A Democrat is sacrilegious,0.342975765,c,neg
+6,Trump's Tough Talk on Hedge-Fund Taxes Doesn't Match His Plan,fairness,A Republican is being unfair,0.334988683,l,neg
+1,Obama: Gitmo inspires jihadists,loyalty,A Democrat is being patriotic,0.324034512,l,pos
+17,Barack Obama says Mitt Romney condemned coal-fired power plants as killers,sanctity,A Democrat is sacrilegious,0.29695797,c,neg
+2,"Call 'Islamic terrorism' what it is: a threat to West, Jeb Bush says",authority,A Democrat insults an authority figure,0.282080263,c,neg
+8,Donald Trump featured in new jihadist recruitment video,loyalty,A Republican is being patriotic,0.273600876,c,pos
+10,Donald Trump exaggerates when he says China has 'total control' over North Korea,fairness,A Republican is abusing their power,0.247835457,l,neg
+18,Barack Obama says U.S. oil production last year was highest since 2003,authority,A Democrat is respected,0.217547506,l,pos
+9,Families Facing Tax Increases Under Trump's Tax Plan,fairness,A Republican is unfairly getting preferential treatment,0.213496625,l,neg
+7,Hillary Clinton says guns exceed next nine categories as leading cause of death for young black men,fairness,A Democrat is unfairly getting preferential treatment,0.208677888,c,neg
+13,"As Dems' Stimulus Anniversary Nears, Americans Ask: 'Where are the Jobs?'",loyalty,A Republican is being patriotic,0.188838646,c,pos
